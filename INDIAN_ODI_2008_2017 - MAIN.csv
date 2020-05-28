@@ -1,0 +1,243 @@
+MATCH_DATE,IDENTITY_CODE,TEAM_1,GROUND,TEAM_2,WINNER_INNING,WINNER,HOST_COUNTRY
+"Feb 10, 2008",ODI # 2675,Australia,Melbourne,India,Winner2ndInning,India,Australia
+"Feb 12, 2008",ODI # 2676,Sri Lanka,Canberra,India,Winner2ndInning,Sri Lanka,Australia
+"Feb 17, 2008",ODI # 2680,Australia,Adelaide,India,Winner1stInning,Australia,Australia
+"Feb 19, 2008",ODI # 2681,Sri Lanka,Adelaide,India,Winner2ndInning,India,Australia
+"Feb 24, 2008",ODI # 2685,Australia,Sydney,India,Winner1stInning,Australia,Australia
+"Feb 26, 2008",ODI # 2686,Sri Lanka,Hobart,India,Winner2ndInning,India,Australia
+"Mar 2, 2008",ODI # 2688,Australia,Sydney,India,Winner2ndInning,India,Australia
+"Mar 4, 2008",ODI # 2689,Australia,Brisbane,India,Winner1stInning,India,Australia
+"Jun 10, 2008",ODI # 2705,Pakistan,Dhaka,India,Winner1stInning,India,Bangladesh
+"Jun 12, 2008",ODI # 2706,Bangladesh,Dhaka,India,Winner2ndInning,India,Bangladesh
+"Jun 14, 2008",ODI # 2707,Pakistan,Dhaka,India,Winner1stInning,Pakistan,Bangladesh
+"Jun 25, 2008",ODI # 2716,Hong Kong,Karachi,India,Winner1stInning,India,Pakistan
+"Jun 26, 2008",ODI # 2717,Pakistan,Karachi,India,Winner2ndInning,India,Pakistan
+"Jun 28, 2008",ODI # 2721,Bangladesh,Karachi,India,Winner2ndInning,India,Pakistan
+"Jul 2, 2008",ODI # 2730,Pakistan,Karachi,India,Winner2ndInning,Pakistan,Pakistan
+"Jul 3, 2008",ODI # 2732,Sri Lanka,Karachi,India,Winner2ndInning,India,Pakistan
+"Jul 6, 2008",ODI # 2735,Sri Lanka,Karachi,India,Winner1stInning,Sri Lanka,Pakistan
+"Aug 18, 2008",ODI # 2742,Sri Lanka,Dambulla,India,Winner2ndInning,Sri Lanka,Sri Lanka
+"Aug 20, 2008",ODI # 2745,Sri Lanka,Dambulla,India,Winner2ndInning,India,Sri Lanka
+"Aug 24, 2008",ODI # 2750,Sri Lanka,Colombo,India,Winner1stInning,India,Sri Lanka
+"Aug 27, 2008",ODI # 2755,Sri Lanka,Colombo,India,Winner1stInning,India,Sri Lanka
+"Aug 29, 2008",ODI # 2756,Sri Lanka,Colombo,India,Winner1stInning,Sri Lanka,Sri Lanka
+"Nov 14, 2008",ODI # 2774,England,Rajkot,India,Winner1stInning,India,India
+"Nov 17, 2008",ODI # 2777,England,Indore,India,Winner1stInning,India,India
+"Nov 20, 2008",ODI # 2778,England,Kanpur,India,Winner1stInning,India,India
+"Nov 23, 2008",ODI # 2781,England,Bengaluru,India,Winner1stInning,India,India
+"Nov 26, 2008",ODI # 2783,England,Cuttack,India,Winner2ndInning,India,India
+"Jan 28, 2009",ODI # 2806,Sri Lanka,Dambulla,India,Winner2ndInning,India,Sri Lanka
+"Jan 31, 2009",ODI # 2810,Sri Lanka,Colombo,India,Winner1stInning,India,Sri Lanka
+"Feb 3, 2009",ODI # 2813,Sri Lanka,Colombo,India,Winner1stInning,India,Sri Lanka
+"Feb 5, 2009",ODI # 2815,Sri Lanka,Colombo,India,Winner1stInning,India,Sri Lanka
+"Feb 8, 2009",ODI # 2818,Sri Lanka,Colombo,India,Winner1stInning,Sri Lanka,Sri Lanka
+"Mar 3, 2009",ODI # 2821,New Zealand,Napier,India,Winner1stInning,India,New Zealand
+"Mar 8, 2009",ODI # 2823,New Zealand,Christchurch,India,Winner1stInning,India,New Zealand
+"Mar 11, 2009",ODI # 2824,New Zealand,Hamilton,India,Winner1stInning,India,New Zealand
+"Mar 14, 2009",ODI # 2825,New Zealand,Auckland,India,Winner2ndInning,New Zealand,New Zealand
+"Jun 26, 2009",ODI # 2852,West Indies,Kingston,India,Winner1stInning,India,West Indies
+"Jun 28, 2009",ODI # 2853,West Indies,Kingston,India,Winner2ndInning,West Indies,West Indies
+"Jul 3, 2009",ODI # 2854,West Indies,Gros Islet,India,Winner2ndInning,India,West Indies
+"Sep 11, 2009",ODI # 2886,New Zealand,Colombo,India,Winner2ndInning,India,Sri Lanka
+"Sep 12, 2009",ODI # 2887,Sri Lanka,Colombo,India,Winner1stInning,Sri Lanka,Sri Lanka
+"Sep 14, 2009",ODI # 2889,Sri Lanka,Colombo,India,Winner1stInning,India,Sri Lanka
+"Sep 26, 2009",ODI # 2898,Pakistan,Centurion,India,Winner1stInning,Pakistan,South Africa
+"Sep 30, 2009",ODI # 2904,West Indies,Johannesburg,India,Winner2ndInning,India,South Africa
+"Oct 25, 2009",ODI # 2913,Australia,Vadodara,India,Winner1stInning,Australia,India
+"Oct 28, 2009",ODI # 2915,Australia,Nagpur,India,Winner1stInning,India,India
+"Oct 31, 2009",ODI # 2918,Australia,Delhi,India,Winner2ndInning,India,India
+"Nov 2, 2009",ODI # 2919,Australia,Mohali,India,Winner1stInning,Australia,
+"Nov 5, 2009",ODI # 2923,Australia,Hyderabad,India,Winner1stInning,Australia,India
+"Nov 8, 2009",ODI # 2925,Australia,Guwahati,India,Winner2ndInning,Australia,India
+"Dec 15, 2009",ODI # 2932,Sri Lanka,Rajkot,India,Winner1stInning,India,India
+"Dec 18, 2009",ODI # 2933,Sri Lanka,Nagpur,India,Winner2ndInning,Sri Lanka,India
+"Dec 21, 2009",ODI # 2934,Sri Lanka,Cuttack,India,Winner2ndInning,India,India
+"Dec 24, 2009",ODI # 2935,Sri Lanka,Kolkata,India,Winner2ndInning,India,India
+"Jan 5, 2010",ODI # 2938,Sri Lanka,Dhaka,India,Winner2ndInning,Sri Lanka,Bangladesh
+"Jan 7, 2010",ODI # 2939,Bangladesh,Dhaka,India,Winner2ndInning,India,Bangladesh
+"Jan 10, 2010",ODI # 2941,Sri Lanka,Dhaka,India,Winner2ndInning,India,Bangladesh
+"Jan 11, 2010",ODI # 2942,Bangladesh,Dhaka,India,Winner2ndInning,India,Bangladesh
+"Jan 13, 2010",ODI # 2943,Sri Lanka,Dhaka,India,Winner2ndInning,Sri Lanka,Bangladesh
+"Feb 21, 2010",ODI # 2961,South Africa,Jaipur,India,Winner1stInning,India,India
+"Feb 24, 2010",ODI # 2962,South Africa,Gwalior,India,Winner1stInning,India,India
+"Feb 27, 2010",ODI # 2963,South Africa,Ahmedabad,India,Winner1stInning,South Africa,India
+"May 28, 2010",ODI # 2981,Zimbabwe,Bulawayo,India,Winner2ndInning,Zimbabwe,Zimbabwe
+"May 30, 2010",ODI # 2983,Sri Lanka,Bulawayo,India,Winner2ndInning,India,Zimbabwe
+"Jun 3, 2010",ODI # 2986,Zimbabwe,Harare,India,Winner2ndInning,Zimbabwe,Zimbabwe
+"Jun 5, 2010",ODI # 2988,Sri Lanka,Harare,India,Winner2ndInning,Sri Lanka,Zimbabwe
+"Jun 16, 2010",ODI # 2993,Bangladesh,Dambulla,India,Winner2ndInning,India,Sri Lanka
+"Jun 19, 2010",ODI # 2996,Pakistan,Dambulla,India,Winner2ndInning,India,Sri Lanka
+"Jun 22, 2010",ODI # 2999,Sri Lanka,Dambulla,India,Winner2ndInning,Sri Lanka,Sri Lanka
+"Jun 24, 2010",ODI # 3001,Sri Lanka,Dambulla,India,Winner1stInning,India,Sri Lanka
+"Aug 10, 2010",ODI # 3030,New Zealand,Dambulla,India,Winner1stInning,New Zealand,Sri Lanka
+"Aug 16, 2010",ODI # 3032,Sri Lanka,Dambulla,India,Winner2ndInning,India,Sri Lanka
+"Aug 22, 2010",ODI # 3038,Sri Lanka,Dambulla,India,Winner2ndInning,Sri Lanka,Sri Lanka
+"Aug 25, 2010",ODI # 3039,New Zealand,Dambulla,India,Winner1stInning,India,Sri Lanka
+"Aug 28, 2010",ODI # 3040,Sri Lanka,Dambulla,India,Winner1stInning,Sri Lanka,Sri Lanka
+"Oct 20, 2010",ODI # 3060,Australia,Visakhapatnam,India,Winner2ndInning,India,India
+"Nov 28, 2010",ODI # 3070,New Zealand,Guwahati,India,Winner1stInning,India,India
+"Dec 1, 2010",ODI # 3072,New Zealand,Jaipur,India,Winner2ndInning,India,India
+"Dec 4, 2010",ODI # 3074,New Zealand,Vadodara,India,Winner2ndInning,India,India
+"Dec 7, 2010",ODI # 3076,New Zealand,Bengaluru,India,Winner2ndInning,India,India
+"Dec 10, 2010",ODI # 3077,New Zealand,Chennai,India,Winner2ndInning,India,India
+"Jan 12, 2011",ODI # 3079,South Africa,Durban,India,Winner1stInning,South Africa,South Africa
+"Jan 15, 2011",ODI # 3080,South Africa,Johannesburg,India,Winner1stInning,India,South Africa
+"Jan 18, 2011",ODI # 3082,South Africa,Cape Town,India,Winner2ndInning,India,South Africa
+"Jan 21, 2011",ODI # 3084,South Africa,Port Elizabeth,India,Winner1stInning,South Africa,South Africa
+"Jan 23, 2011",ODI # 3087,South Africa,Centurion,India,Winner1stInning,South Africa,South Africa
+"Feb 19, 2011",ODI # 3100,Bangladesh,Dhaka,India,Winner1stInning,India,Bangladesh
+"Mar 6, 2011",ODI # 3121,Ireland,Bengaluru,India,Winner2ndInning,India,India
+"Mar 9, 2011",ODI # 3124,Netherlands,Delhi,India,Winner2ndInning,India,India
+"Mar 12, 2011",ODI # 3128,South Africa,Nagpur,India,Winner2ndInning,South Africa,India
+"Mar 20, 2011",ODI # 3141,West Indies,Chennai,India,Winner1stInning,India,India
+"Mar 24, 2011",ODI # 3143,Australia,Ahmedabad,India,Winner2ndInning,India,India
+"Mar 30, 2011",ODI # 3147,Pakistan,Mohali,India,Winner1stInning,India,
+"Apr 2, 2011",ODI # 3148,Sri Lanka,Mumbai,India,Winner2ndInning,India,India
+"Jun 6, 2011",ODI # 3159,West Indies,Port of Spain,India,Winner2ndInning,India,West Indies
+"Jun 8, 2011",ODI # 3160,West Indies,Port of Spain,India,Winner2ndInning,India,West Indies
+"Jun 11, 2011",ODI # 3161,West Indies,North Sound,India,Winner2ndInning,India,West Indies
+"Jun 13, 2011",ODI # 3162,West Indies,North Sound,India,Winner1stInning,West Indies,West Indies
+"Jun 16, 2011",ODI # 3163,West Indies,Kingston,India,Winner2ndInning,West Indies,West Indies
+"Sep 6, 2011",ODI # 3187,England,Southampton,India,Winner2ndInning,England,England
+"Sep 9, 2011",ODI # 3189,England,The Oval,India,Winner2ndInning,England,England
+"Sep 16, 2011",ODI # 3195,England,Cardiff,India,Winner2ndInning,England,England
+"Oct 14, 2011",ODI # 3199,England,Hyderabad,India,Winner1stInning,India,India
+"Oct 17, 2011",ODI # 3201,England,Delhi,India,Winner2ndInning,India,India
+"Oct 20, 2011",ODI # 3205,England,Mohali,India,Winner2ndInning,India,
+"Oct 23, 2011",ODI # 3207,England,Mumbai,India,Winner2ndInning,India,India
+"Oct 25, 2011",ODI # 3210,England,Kolkata,India,Winner1stInning,India,India
+"Nov 29, 2011",ODI # 3217,West Indies,Cuttack,India,Winner2ndInning,India,India
+"Dec 2, 2011",ODI # 3219,West Indies,Visakhapatnam,India,Winner2ndInning,India,India
+"Dec 5, 2011",ODI # 3221,West Indies,Ahmedabad,India,Winner1stInning,West Indies,India
+"Dec 8, 2011",ODI # 3223,West Indies,Indore,India,Winner1stInning,India,India
+"Dec 11, 2011",ODI # 3224,West Indies,Chennai,India,Winner1stInning,India,India
+"Feb 5, 2012",ODI # 3231,Australia,Melbourne,India,Winner1stInning,Australia,Australia
+"Feb 8, 2012",ODI # 3233,Sri Lanka,Perth,India,Winner2ndInning,India,Australia
+"Feb 12, 2012",ODI # 3237,Australia,Adelaide,India,Winner2ndInning,India,Australia
+"Feb 19, 2012",ODI # 3244,Australia,Brisbane,India,Winner1stInning,Australia,Australia
+"Feb 21, 2012",ODI # 3246,Sri Lanka,Brisbane,India,Winner1stInning,Sri Lanka,Australia
+"Feb 26, 2012",ODI # 3250,Australia,Sydney,India,Winner1stInning,Australia,Australia
+"Feb 28, 2012",ODI # 3251,Sri Lanka,Hobart,India,Winner2ndInning,India,Australia
+"Mar 13, 2012",ODI # 3259,Sri Lanka,Dhaka,India,Winner1stInning,India,Bangladesh
+"Mar 16, 2012",ODI # 3261,Bangladesh,Dhaka,India,Winner2ndInning,Bangladesh,Bangladesh
+"Mar 18, 2012",ODI # 3263,Pakistan,Dhaka,India,Winner2ndInning,India,Bangladesh
+"Jul 21, 2012",ODI # 3291,Sri Lanka,Hambantota,India,Winner1stInning,India,Sri Lanka
+"Jul 24, 2012",ODI # 3292,Sri Lanka,Hambantota,India,Winner2ndInning,Sri Lanka,Sri Lanka
+"Jul 28, 2012",ODI # 3293,Sri Lanka,Colombo,India,Winner2ndInning,India,Sri Lanka
+"Jul 31, 2012",ODI # 3294,Sri Lanka,Colombo,India,Winner2ndInning,India,Sri Lanka
+"Aug 4, 2012",ODI # 3295,Sri Lanka,Pallekele,India,Winner1stInning,India,
+"Dec 30, 2012",ODI # 3314,Pakistan,Chennai,India,Winner2ndInning,Pakistan,India
+"Jan 3, 2013",ODI # 3315,Pakistan,Kolkata,India,Winner1stInning,Pakistan,India
+"Jan 6, 2013",ODI # 3316,Pakistan,Delhi,India,Winner1stInning,India,India
+"Jan 11, 2013",ODI # 3318,England,Rajkot,India,Winner1stInning,England,India
+"Jan 15, 2013",ODI # 3320,England,Kochi,India,Winner1stInning,India,India
+"Jan 19, 2013",ODI # 3322,England,Ranchi,India,Winner2ndInning,India,India
+"Jan 23, 2013",ODI # 3327,England,Mohali,India,Winner2ndInning,India,
+"Jan 27, 2013",ODI # 3329,England,Dharamsala,India,Winner2ndInning,England,India
+"Jun 6, 2013",ODI # 3363,South Africa,Cardiff,India,Winner1stInning,India,England
+"Jun 11, 2013",ODI # 3368,West Indies,The Oval,India,Winner2ndInning,India,England
+"Jun 15, 2013",ODI # 3372,Pakistan,Birmingham,India,Winner2ndInning,India,England
+"Jun 20, 2013",ODI # 3376,Sri Lanka,Cardiff,India,Winner2ndInning,India,England
+"Jun 23, 2013",ODI # 3377,England,Birmingham,India,Winner1stInning,India,England
+"Jun 30, 2013",ODI # 3380,West Indies,Kingston,India,Winner2ndInning,West Indies,West Indies
+"Jul 2, 2013",ODI # 3382,Sri Lanka,Kingston,India,Winner1stInning,Sri Lanka,West Indies
+"Jul 5, 2013",ODI # 3383,West Indies,Port of Spain,India,Winner1stInning,India,West Indies
+"Jul 9, 2013",ODI # 3387,Sri Lanka,Port of Spain,India,Winner1stInning,India,West Indies
+"Jul 11, 2013",ODI # 3388,Sri Lanka,Port of Spain,India,Winner2ndInning,India,West Indies
+"Jul 24, 2013",ODI # 3395,Zimbabwe,Harare,India,Winner2ndInning,India,Zimbabwe
+"Jul 26, 2013",ODI # 3397,Zimbabwe,Harare,India,Winner1stInning,India,Zimbabwe
+"Jul 28, 2013",ODI # 3399,Zimbabwe,Harare,India,Winner2ndInning,India,Zimbabwe
+"Aug 1, 2013",ODI # 3402,Zimbabwe,Bulawayo,India,Winner2ndInning,India,Zimbabwe
+"Aug 3, 2013",ODI # 3403,Zimbabwe,Bulawayo,India,Winner2ndInning,India,Zimbabwe
+"Oct 13, 2013",ODI # 3419,Australia,Pune,India,Winner1stInning,Australia,India
+"Oct 16, 2013",ODI # 3420,Australia,Jaipur,India,Winner2ndInning,India,India
+"Oct 19, 2013",ODI # 3421,Australia,Mohali,India,Winner2ndInning,Australia,
+"Oct 30, 2013",ODI # 3424,Australia,Nagpur,India,Winner2ndInning,India,India
+"Nov 2, 2013",ODI # 3428,Australia,Bengaluru,India,Winner1stInning,India,India
+"Nov 21, 2013",ODI # 3436,West Indies,Kochi,India,Winner2ndInning,India,India
+"Nov 24, 2013",ODI # 3437,West Indies,Visakhapatnam,India,Winner2ndInning,West Indies,India
+"Nov 27, 2013",ODI # 3439,West Indies,Kanpur,India,Winner2ndInning,India,India
+"Dec 5, 2013",ODI # 3442,South Africa,Johannesburg,India,Winner1stInning,South Africa,South Africa
+"Dec 8, 2013",ODI # 3443,South Africa,Durban,India,Winner1stInning,South Africa,South Africa
+"Jan 19, 2014",ODI # 3456,New Zealand,Napier,India,Winner1stInning,New Zealand,New Zealand
+"Jan 22, 2014",ODI # 3458,New Zealand,Hamilton,India,Winner1stInning,New Zealand,New Zealand
+"Jan 28, 2014",ODI # 3465,New Zealand,Hamilton,India,Winner2ndInning,New Zealand,New Zealand
+"Jan 31, 2014",ODI # 3467,New Zealand,Wellington,India,Winner1stInning,New Zealand,New Zealand
+"Feb 26, 2014",ODI # 3474,Bangladesh,Fatullah,India,Winner2ndInning,India,Bangladesh
+"Feb 28, 2014",ODI # 3476,Sri Lanka,Fatullah,India,Winner2ndInning,Sri Lanka,Bangladesh
+"Mar 2, 2014",ODI # 3479,Pakistan,Dhaka,India,Winner2ndInning,Pakistan,Bangladesh
+"Mar 5, 2014",ODI # 3483,Afghanistan,Dhaka,India,Winner2ndInning,India,Bangladesh
+"Jun 15, 2014",ODI # 3497,Bangladesh,Dhaka,India,Winner2ndInning,India,Bangladesh
+"Jun 17, 2014",ODI # 3498,Bangladesh,Dhaka,India,Winner1stInning,India,Bangladesh
+"Aug 27, 2014",ODI # 3517,England,Cardiff,India,Winner1stInning,India,England
+"Aug 30, 2014",ODI # 3520,England,Nottingham,India,Winner2ndInning,India,England
+"Sep 2, 2014",ODI # 3523,England,Birmingham,India,Winner2ndInning,India,England
+"Sep 5, 2014",ODI # 3525,England,Leeds,India,Winner1stInning,England,England
+"Oct 8, 2014",ODI # 3531,West Indies,Kochi,India,Winner1stInning,West Indies,India
+"Oct 11, 2014",ODI # 3533,West Indies,Delhi,India,Winner1stInning,India,India
+"Oct 17, 2014",ODI # 3535,West Indies,Dharamsala,India,Winner1stInning,India,India
+"Nov 2, 2014",ODI # 3539,Sri Lanka,Cuttack,India,Winner1stInning,India,India
+"Nov 6, 2014",ODI # 3540,Sri Lanka,Ahmedabad,India,Winner2ndInning,India,India
+"Nov 9, 2014",ODI # 3543,Sri Lanka,Hyderabad,India,Winner2ndInning,India,India
+"Nov 13, 2014",ODI # 3544,Sri Lanka,Kolkata,India,Winner1stInning,India,India
+"Nov 16, 2014",ODI # 3547,Sri Lanka,Ranchi,India,Winner2ndInning,India,India
+"Jan 18, 2015",ODI # 3582,Australia,Melbourne,India,Winner2ndInning,Australia,Australia
+"Jan 20, 2015",ODI # 3586,England,Brisbane,India,Winner2ndInning,England,Australia
+"Jan 30, 2015",ODI # 3595,England,Perth,India,Winner2ndInning,England,Australia
+"Feb 15, 2015",ODI # 3602,Pakistan,Adelaide,India,Winner1stInning,India,Australia
+"Feb 22, 2015",ODI # 3610,South Africa,Melbourne,India,Winner1stInning,India,Australia
+"Feb 28, 2015",ODI # 3618,U.A.E.,Perth,India,Winner2ndInning,India,Australia
+"Mar 6, 2015",ODI # 3625,West Indies,Perth,India,Winner2ndInning,India,Australia
+"Mar 10, 2015",ODI # 3631,Ireland,Hamilton,India,Winner2ndInning,India,New Zealand
+"Mar 14, 2015",ODI # 3636,Zimbabwe,Auckland,India,Winner2ndInning,India,New Zealand
+"Mar 19, 2015",ODI # 3641,Bangladesh,Melbourne,India,Winner1stInning,India,Australia
+"Mar 26, 2015",ODI # 3645,Australia,Sydney,India,Winner1stInning,Australia,Australia
+"Jun 18, 2015",ODI # 3658,Bangladesh,Dhaka,India,Winner1stInning,Bangladesh,Bangladesh
+"Jun 21, 2015",ODI # 3660,Bangladesh,Dhaka,India,Winner2ndInning,Bangladesh,Bangladesh
+"Jun 24, 2015",ODI # 3661,Bangladesh,Dhaka,India,Winner1stInning,India,Bangladesh
+"Jul 10, 2015",ODI # 3662,Zimbabwe,Harare,India,Winner1stInning,India,Zimbabwe
+"Jul 12, 2015",ODI # 3665,Zimbabwe,Harare,India,Winner1stInning,India,Zimbabwe
+"Jul 14, 2015",ODI # 3667,Zimbabwe,Harare,India,Winner1stInning,India,Zimbabwe
+"Oct 11, 2015",ODI # 3689,South Africa,Kanpur,India,Winner1stInning,South Africa,India
+"Oct 14, 2015",ODI # 3692,South Africa,Indore,India,Winner1stInning,India,India
+"Oct 18, 2015",ODI # 3695,South Africa,Rajkot,India,Winner1stInning,South Africa,India
+"Oct 22, 2015",ODI # 3698,South Africa,Chennai,India,Winner1stInning,India,India
+"Oct 25, 2015",ODI # 3700,South Africa,Mumbai,India,Winner1stInning,South Africa,India
+"Jan 12, 2016",ODI # 3723,Australia,Perth,India,Winner2ndInning,Australia,Australia
+"Jan 15, 2016",ODI # 3724,Australia,Brisbane,India,Winner2ndInning,Australia,Australia
+"Jan 17, 2016",ODI # 3725,Australia,Melbourne,India,Winner2ndInning,Australia,Australia
+"Jan 20, 2016",ODI # 3726,Australia,Canberra,India,Winner1stInning,Australia,Australia
+"Jan 23, 2016",ODI # 3727,Australia,Sydney,India,Winner2ndInning,India,Australia
+"Jun 11, 2016",ODI # 3742,Zimbabwe,Harare,India,Winner2ndInning,India,Zimbabwe
+"Jun 13, 2016",ODI # 3744,Zimbabwe,Harare,India,Winner2ndInning,India,Zimbabwe
+"Jun 15, 2016",ODI # 3746,Zimbabwe,Harare,India,Winner2ndInning,India,Zimbabwe
+"Oct 16, 2016",ODI # 3796,New Zealand,Dharamsala,India,Winner2ndInning,India,India
+"Oct 20, 2016",ODI # 3797,New Zealand,Delhi,India,Winner1stInning,New Zealand,India
+"Oct 23, 2016",ODI # 3798,New Zealand,Mohali,India,Winner2ndInning,India,
+"Oct 26, 2016",ODI # 3799,New Zealand,Ranchi,India,Winner1stInning,New Zealand,India
+"Oct 29, 2016",ODI # 3800,New Zealand,Visakhapatnam,India,Winner1stInning,India,India
+"Jan 15, 2017",ODI # 3819,England,Pune,India,Winner2ndInning,India,India
+"Jan 19, 2017",ODI # 3821,England,Cuttack,India,Winner1stInning,India,India
+"Jan 22, 2017",ODI # 3824,England,Kolkata,India,Winner1stInning,England,India
+"Jun 4, 2017",ODI # 3878,Pakistan,Birmingham,India,Winner1stInning,India,England
+"Jun 8, 2017",ODI # 3882,Sri Lanka,The Oval,India,Winner2ndInning,Sri Lanka,England
+"Jun 11, 2017",ODI # 3886,South Africa,The Oval,India,Winner2ndInning,India,England
+"Jun 15, 2017",ODI # 3891,Bangladesh,Birmingham,India,Winner2ndInning,India,England
+"Jun 18, 2017",ODI # 3894,Pakistan,The Oval,India,Winner1stInning,Pakistan,England
+"Jun 25, 2017",ODI # 3896,West Indies,Port of Spain,India,Winner1stInning,India,West Indies
+"Jun 30, 2017",ODI # 3898,West Indies,North Sound,India,Winner1stInning,India,West Indies
+"Jul 2, 2017",ODI # 3900,West Indies,North Sound,India,Winner1stInning,West Indies,West Indies
+"Jul 6, 2017",ODI # 3902,West Indies,Kingston,India,Winner2ndInning,India,West Indies
+"Aug 20, 2017",ODI # 3905,Sri Lanka,Dambulla,India,Winner2ndInning,India,Sri Lanka
+"Aug 24, 2017",ODI # 3906,Sri Lanka,Pallekele,India,Winner2ndInning,India,
+"Aug 27, 2017",ODI # 3907,Sri Lanka,Pallekele,India,Winner2ndInning,India,
+"Aug 31, 2017",ODI # 3908,Sri Lanka,Colombo,India,Winner1stInning,India,Sri Lanka
+"Sep 3, 2017",ODI # 3909,Sri Lanka,Colombo,India,Winner2ndInning,India,Sri Lanka
+"Sep 17, 2017",ODI # 3910,Australia,Chennai,India,Winner1stInning,India,India
+"Sep 21, 2017",ODI # 3912,Australia,Kolkata,India,Winner1stInning,India,India
+"Sep 24, 2017",ODI # 3914,Australia,Indore,India,Winner2ndInning,India,India
+"Sep 28, 2017",ODI # 3917,Australia,Bengaluru,India,Winner1stInning,Australia,India
+"Oct 1, 2017",ODI # 3919,Australia,Nagpur,India,Winner2ndInning,India,India
+"Oct 22, 2017",ODI # 3928,New Zealand,Mumbai,India,Winner2ndInning,New Zealand,India
+"Oct 25, 2017",ODI # 3931,New Zealand,Pune,India,Winner2ndInning,India,India
+"Oct 29, 2017",ODI # 3932,New Zealand,Kanpur,India,Winner1stInning,India,India
